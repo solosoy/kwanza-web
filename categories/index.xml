@@ -20,7 +20,7 @@
     
     <title>Categories · Kwanza</title>
     
-    <link>https://solosoy.github.io/kwanza-web/categories/</link>
+    <link>kwanza.cl/categories/</link>
     <description>Recent content in Categories · Kwanza</description>
     
     <language>es-ES</language>
@@ -34,7 +34,7 @@
     
     
     
-    <atom:link href="https://solosoy.github.io/kwanza-web/categories/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="kwanza.cl/categories/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>
