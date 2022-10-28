@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://solosoy.github.io/kwanza-web/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://solosoy.github.io/kwanza-web/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://solosoy.github.io/kwanza-web/about/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://solosoy.github.io/kwanza-web/tags/</loc>
   </url><url>
-    <loc>/store/</loc>
+    <loc>https://solosoy.github.io/kwanza-web/store/</loc>
   </url>
 </urlset>

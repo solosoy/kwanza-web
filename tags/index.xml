@@ -20,7 +20,7 @@
     
     <title>Tags · Kwanza</title>
     
-    <link>/tags/</link>
+    <link>https://solosoy.github.io/kwanza-web/tags/</link>
     <description>Recent content in Tags · Kwanza</description>
     
     <language>es-ES</language>
@@ -34,7 +34,7 @@
     
     
     
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://solosoy.github.io/kwanza-web/tags/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>
