@@ -20,7 +20,7 @@
     
     <title>Kwanza</title>
     
-    <link>kwanza.cl/</link>
+    <link>https://kwanza.cl/</link>
     <description>Recent content in Kwanza</description>
     
     <language>es-ES</language>
@@ -34,7 +34,7 @@
     
     
     
-    <atom:link href="kwanza.cl/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://kwanza.cl/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
@@ -42,8 +42,8 @@
       <title>Sobre nosotros</title>
       
       
-      <link>kwanza.cl/about/</link>
-      <guid>kwanza.cl/about/</guid>
+      <link>https://kwanza.cl/about/</link>
+      <guid>https://kwanza.cl/about/</guid>
       
       
       
@@ -73,8 +73,8 @@
       <title>Tienda</title>
       
       
-      <link>kwanza.cl/store/</link>
-      <guid>kwanza.cl/store/</guid>
+      <link>https://kwanza.cl/store/</link>
+      <guid>https://kwanza.cl/store/</guid>
       
       
       

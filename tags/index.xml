@@ -20,7 +20,7 @@
     
     <title>Tags · Kwanza</title>
     
-    <link>kwanza.cl/tags/</link>
+    <link>https://kwanza.cl/tags/</link>
     <description>Recent content in Tags · Kwanza</description>
     
     <language>es-ES</language>
@@ -34,7 +34,7 @@
     
     
     
-    <atom:link href="kwanza.cl/tags/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://kwanza.cl/tags/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>

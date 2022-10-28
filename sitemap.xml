@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>kwanza.cl/categories/</loc>
+    <loc>https://kwanza.cl/categories/</loc>
   </url><url>
-    <loc>kwanza.cl/</loc>
+    <loc>https://kwanza.cl/</loc>
   </url><url>
-    <loc>kwanza.cl/about/</loc>
+    <loc>https://kwanza.cl/about/</loc>
   </url><url>
-    <loc>kwanza.cl/tags/</loc>
+    <loc>https://kwanza.cl/tags/</loc>
   </url><url>
-    <loc>kwanza.cl/store/</loc>
+    <loc>https://kwanza.cl/store/</loc>
   </url>
 </urlset>
